@@ -83,7 +83,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➕ Add GIZA to your group ➕", url="t.me/TheAnkiVectorbot?startgroup=true"
+            text="➕ Add GIZA to your group ➕", url="t.me/http://snow_bole_bot?startgroup=true"
         ),
     ],
 ]
@@ -91,7 +91,7 @@ buttons = [
 ANKIVECTOR_IMG = "https://telegra.ph/file/654d6240d0519abd908c3.jpg"
 
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://telegra.ph/file/e10a45d0433a1ab6fed7b.jpg)
+*Main Commands :* [🤖](https://telegra.ph/file/654d6240d0519abd908c3.jpg)
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
 ✪ /donate: You can support my creater using this command.
