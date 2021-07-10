@@ -63,32 +63,32 @@ from AnkiVector.modules.helper_funcs.misc import paginate_modules
 from AnkiVector.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm 𝓐𝓷𝓴𝓲 𝓥𝓮𝓬𝓽𝓸𝓻
-I'm a Powerful group manager bot With Cool Modules. Made by [𝓓𝓪𝓶𝓪𝓷𝓽𝓱𝓪 𝓙𝓪𝓼𝓲𝓷𝓰𝓱𝓮• 🇱🇰](t.me/Damantha_Jasinghe)
+Hello there, I'm GIZA
+I'm a Powerful group manager bot With Cool Modules. Made by @No_Inbox
 Hit /help to find my list of available commands
  
 """
 
 buttons = [
     [
-        InlineKeyboardButton(text="📢Updates Channel", url="https://t.me/ankivectorUpdates"),
-        InlineKeyboardButton(text="👥 Support Group", url="https://t.me/AnkiSupport_Official"),
+        InlineKeyboardButton(text="📢Updates Channel", url="https://t.me/GISHANOT"),
+        InlineKeyboardButton(text="👥 Support Group", url="https://t.me/joinchat/xCskBP58xeM3OGY5"),
     ],
     [
-        InlineKeyboardButton(text="📚Bots Channel", url="https://t.me/slhitbotofficial"),
-        InlineKeyboardButton(text="📜Source", url="https://www.youtube.com/watch?v=fXXEcAkWAFU"),
+        InlineKeyboardButton(text="📚Bots Channel", url="https://t.me/GISHANOT"),
+        InlineKeyboardButton(text="📜Source", url="https://www.youtube.com/channel/UC0a4YL2AXvhYW_nVt-PtVdg"),
     ],
     [
         InlineKeyboardButton(text="❔ Help", callback_data="help_back"),
     ],
     [
         InlineKeyboardButton(
-            text="➕ Add Anki Vector to your group ➕", url="t.me/TheAnkiVectorbot?startgroup=true"
+            text="➕ Add GIZA to your group ➕", url="t.me/TheAnkiVectorbot?startgroup=true"
         ),
     ],
 ]
 
-ANKIVECTOR_IMG = "https://telegra.ph/file/e10a45d0433a1ab6fed7b.jpg"
+ANKIVECTOR_IMG = "https://telegra.ph/file/654d6240d0519abd908c3.jpg"
 
 HELP_STRINGS = f"""
 *Main Commands :* [🤖](https://telegra.ph/file/e10a45d0433a1ab6fed7b.jpg)
